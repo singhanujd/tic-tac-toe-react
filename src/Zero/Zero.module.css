@@ -1,0 +1,15 @@
+.Zero {
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  background-image: radial-gradient(
+      circle,
+      white 30%,
+      transparent 30%,
+      transparent 70%,
+      white 50%,
+      white 100%
+    ),
+    linear-gradient(to top right, #f7797d, #fbd786);
+  opacity: 1;
+}
